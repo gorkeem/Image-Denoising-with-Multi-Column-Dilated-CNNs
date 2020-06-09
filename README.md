@@ -5,3 +5,5 @@ In this project, we used deep CNN networks to denoise images, which are noised b
 
 We write the code in Denoiser.ipynb notebook using Pytorch library and run it in Google Colab with GPU. each model took almost 2hrs to train.
 
+#Dataset
+Train and test data is in folder BSD300. Dataset used for the project is borrowed form Berkeley Segmentation Dataset and Benchmark(BSDS). We used a subsection of this dataset for our project. It contains two sub-directories: train and test, which consist of 200 and 100 images, respectively, of either size $321 * 481 or 481 * 321.
