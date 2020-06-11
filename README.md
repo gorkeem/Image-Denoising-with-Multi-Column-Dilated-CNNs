@@ -10,5 +10,5 @@ Dataset
 Train and test data is in folder BSD300. Dataset used for the project is borrowed form Berkeley Segmentation Dataset and Benchmark(BSDS). We used a subsection of this dataset for our project. It contains two sub-directories: train and test, which consist of 200 and 100 images, respectively, of either size 321 * 481 or 481 * 321.
 
 Saeed Karimi
-Arda Türkoğlu
-Görkem Yılmaz
+\t Arda Türkoğlu
+\t Görkem Yılmaz
